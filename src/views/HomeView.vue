@@ -6,16 +6,16 @@ import Table from '../components/Table.vue'
   <div class="container text-center">
     <div class="row">
       <h1>Prueba Técnica - MusicBrainz</h1>
-      <Table/>
+      <Table />
     </div>
   </div>
 </template>
 
 <style scoped>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-  }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 </style>
